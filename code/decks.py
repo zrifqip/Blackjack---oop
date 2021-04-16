@@ -9,3 +9,8 @@ class decks :
     def draw(self) :
         draw_cards = deck.pop()
         return draw_cards
+
+
+    
+
+    
